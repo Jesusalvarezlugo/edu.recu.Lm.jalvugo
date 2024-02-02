@@ -1,0 +1,69 @@
+h2{
+	margin-left:30%;
+	margin-top:3rem;
+	color:aqua;
+}
+
+
+
+header{
+	background-color: rosybrown;
+}
+
+img{
+	border-radius: 30%;
+	
+}
+
+nav{
+	
+	background-color:darksalmon;
+	
+}
+
+a+a{
+	margin-bottom: 30%;
+}
+
+.formulario{
+	margin-left:30%;
+}
+hr{
+	
+	border-color:blue;
+}
+
+.texto{
+	text-align: center;
+}
+
+.t1{
+	float:left;
+}
+.t2{
+	float:right;
+}
+
+table{
+	margin-left: 40%;
+	margin-top:3rem;
+	border: 1px solid white;
+	
+}
+
+.tabla2{
+	float:left;
+	border:1;
+	border-color:black;
+}
+
+.main1{
+	background-color:beige;
+}
+
+footer{
+	background-color: coral;
+	margin-bottom: 100%;
+}
+
+
